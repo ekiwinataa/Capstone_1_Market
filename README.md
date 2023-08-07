@@ -2,12 +2,18 @@
 
 HI! Hope you're doing well. Thank you for stoping by! This is my very first project along my journey learning **Data Science** with Purwadhika Digital Technology School. 
 
-A bit of explaination, so this programme is about running a market bussiness:
-  - When entering the programme, it will ask the user to define him/her self either as a Staff or Customer. To enter the staff mode, it requires access code before entering as a safety precaution while for customer mode, the user can freely enter and shop in the market.
-  - In staff mode, it contains "CRUD" which are Create, Read, Update, and Delete features. Thus, the staff can "Read" all the stock available in the market, "Create" a new product details to be sold in the market, "Update" existing product details, and "Delete" unwanted product from the stock list.
-  - In customer mode, it only contains "Read" feature with an additional feature which is "Shopping". The customer can view available products, add product to cart, checkout the product in cart, and of course pay the bills
-  - The programme has been designed to avoid errors and crashes while in running. Moreover, the two modes (staff and customer) are integrated to one another in which anything that is done in customer mode will be integrated with the stock in staff mode and vice versa.
 
+🚀 Excited to unveil my very first Python project along my journey learning **Data Science** with Purwadhika Digital Technology! 🐍🛒
+
+Simulating the Market Experience: My Python Program in Action 🏪💼
+
+I'm thrilled to share my latest achievement: **a comprehensive Python program that brings the world of running a market business to life!** 💡⚙️
+
+In this python program, users can step into two distinct roles – Staff or Customer. Staff members enter the program with an access code protection, equipped with essential "CRUD" functionalities. They can effortlessly manage stock by Reading, Creating, Updating, and Deleting products, ensuring smooth market operations. 📦🛍️
+
+On the other hand, customers can seamlessly explore and shop in the market with just a click. The "Read" feature allows them to browse products, while the innovative "Shopping" functionality empowers them to add products to their cart, checkout, and settle bills effortlessly. 💳🛒
+
+Designed with precision, the program ensures stability and error-free performance, guaranteeing a seamless experience. The integration between the staff and customer modes creates a unified market ecosystem, where actions on one end seamlessly reflect on the other. 🔄
 
 Kindly leave a comment or share your thought about my coding if you would so that I can keep developing my skills:)
 
